@@ -1,1 +1,1 @@
-# Trabajo-de-Investigaci-n-2P
+# Trabajo de Investigacion-2P
