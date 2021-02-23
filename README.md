@@ -39,3 +39,8 @@ a la impedancia (Z) y en los segundos se calcula respecto a la Admitancia.
 ### **Anexos**
 
 [Link Video](https://youtu.be/nOkSgx55jtY)
+
+### Bibliografía
+
+Floyd, T. L. (2021). Principios De Circuitos Electricos C/Cd Rom (Circuitos ed., Vol. 8) [Libro electrónico]. PRENTICE HALL/PEARSON. http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
+
