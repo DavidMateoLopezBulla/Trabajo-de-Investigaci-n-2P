@@ -12,7 +12,7 @@
 Objetivos generales   	
 - Aprender los fundamentos sobre resolución de circuitos en serie para circuitos RC.	
 - Aplicar la teoría del capítulo para resolver ejercicios en serie, paralelo y serie-paralelo.
-- Realizar los ejercicios del capítulo 15 con la teorí aprendida.
+- Realizar los ejercicios del capítulo 15 con la teorìa aprendida.
 
 Objetivos específicos	
 - Usar números complejos para expresar cantidades
