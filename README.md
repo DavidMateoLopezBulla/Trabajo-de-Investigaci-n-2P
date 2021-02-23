@@ -35,7 +35,6 @@ circuito RC en paralelo.
 - Para los circuitos RC cambia la ley de Ohm para los circuitos en serie y los circuitos en paralelo ya que en los primeros se calcula con respecto
 a la impedancia (Z) y en los segundos se calcula respecto a la Admitancia.
 
-![Captura](https://user-images.githubusercontent.com/76136049/108812153-9f10b980-757c-11eb-9f39-d271f048d187.PNG)
 
 
 ### **Anexos**
