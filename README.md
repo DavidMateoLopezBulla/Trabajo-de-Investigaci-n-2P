@@ -13,6 +13,7 @@ Objetivos generales
 - Aprender los fundamentos sobre resolución de circuitos en serie para circuitos RC.	
 - Aplicar la teoría del capítulo para resolver ejercicios en serie, paralelo y serie-paralelo.
 - Realizar los ejercicios del capítulo 15 con la teorí aprendida.
+
 Objetivos específicos	
 - Usar números complejos para expresar cantidades
 fasoriales.
@@ -27,17 +28,14 @@ circuito RC en paralelo.
 
 ### Conclusiones
 
-- Los teoremas de este capitulo 8 se centran en simplificar los circuitos ya su vez los procesos para poder resolverlos con mayor fácilidad
-dandonos unas herramientas muy utiles para resolver circuitos complejos.
+- Los circuitos RC cuentan con una frecuencia, magnitud y ángulo a diferencia de los circuitos normales que solo tienen magnitud.
 
-- El teorema de superposicion se centra en ayudarnos a resolver ejercicios con una o más fuentes de voltaje de una manera más fácil y eficiente.
+- A diferencia de los circuitos normales en los circuitos RC se utiliza la impedancia en vez de la resistencia para poder aplicar la ley de Ohm.
 
-- Con el teorema de Thevenin podemos resolver problemas en el queramos hallar la carga de una resistencia específica eliminandola del circuito
-y resolviendola a travez de la vision de la resistencia a calcular.
+- Para los circuitos RC cambia la ley de Ohm para los circuitos en serie y los circuitos en paralelo ya que en los primeros se calcula con respecto
+a la impedancia (Z) y en los segundos se calcula respecto a la Admitancia.
 
-- El teorema de Norton y el teorema de Thevenin son practicamente iguales la unica diferencia es que en el teorema de Norton se halla la corriente en vez del voltaje
-pero aún así sus fórmulas están corelacionadas. 
 
 ### **Anexos**
 
-[Link Video](https://www.youtube.com/watch?v=gM3nKqke5yE "Link Video")
+[Link Video](https://youtu.be/nOkSgx55jtY)
