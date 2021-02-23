@@ -10,15 +10,20 @@
 	
 
 Objetivos generales   	
-- Describir las características de una fuente de corriente y de voltaje cd.	
-- Aplicar cuatro diferentes teoremas para simplificar y transferir potencia a circuitos. 
-- Realizar conversiones.
-
+- Aprender los fundamentos sobre resolución de circuitos en serie para circuitos RC.	
+- Aplicar la teoría del capítulo para resolver ejercicios en serie, paralelo y serie-paralelo.
+- Realizar los ejercicios del capítulo 15 con la teorí aprendida.
 Objetivos específicos	
-- Aplicar teorema de superposición de análisis de circuitos. 
-- Aplicar los teoremas de Thevenin para simplificar circuitos.
-- Aplicar el teorema de transferencia de potencia máxima.
-- Realizar conversiones de fuente y de aY y Ya.
+- Usar números complejos para expresar cantidades
+fasoriales.
+- Describir la relación entre corriente y voltaje en un
+circuito RC en serie.
+-Determinar la impedancia de un circuito RC en serie.
+- Analizar un circuito RC en serie.
+- Determinar impedancia y admitancia en un
+circuito RC en paralelo.
+- Analizar un circuito RC en paralelo.
+- Analizar circuitos RC en serie-paralelo.
 
 ### Conclusiones
 
