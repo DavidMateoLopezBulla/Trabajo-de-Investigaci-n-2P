@@ -25,6 +25,9 @@ circuito RC en serie.
 circuito RC en paralelo.
 - Analizar un circuito RC en paralelo.
 - Analizar circuitos RC en serie-paralelo.
+![Diagrama 1](https://user-images.githubusercontent.com/76446982/108812769-b56b4500-757d-11eb-92a0-59560789e857.png)
+![Diagrama 2](https://user-images.githubusercontent.com/76446982/108812774-b7350880-757d-11eb-9b5b-d528f2520350.png)
+![Diagrama 3](https://user-images.githubusercontent.com/76446982/108812780-b8fecc00-757d-11eb-993c-a148f2a37d53.png)
 
 ### Conclusiones
 
